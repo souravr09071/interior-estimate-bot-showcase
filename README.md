@@ -1,5 +1,6 @@
 # interior-estimate-bot-showcase
 AI-powered Telegram prototype for floor-plan analysis and preliminary interior cost estimation using Python, Gemini, and the Telegram Bot API.
+This repository provides a technical overview of the project. The source code is maintained privately.
 # Interior Estimate Bot (Telegram POC)
 
 A proof-of-concept Telegram bot that walks a user through:
